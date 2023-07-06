@@ -1,5 +1,9 @@
 # Todos-API
 
+It is a simple REST API with CRUD operations. In this api we can add, update, delete and read TODOS. 
+The sample testing using POSTMAN is shown below:
+
+
 1.Show Todos:
 
 ![localhost_3000_todos - My Workspace 06-07-2023 19_10_22](https://github.com/Yashbahekar/Todos-API/assets/90609297/36876c29-6105-47ec-9e60-e1c20d4b7ea1)
